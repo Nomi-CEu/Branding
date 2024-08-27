@@ -213,7 +213,7 @@
 * Add Fillable Tooltip to Various Items ([#857](https://github.com/Nomi-CEu/Nomi-CEu/pull/857)) - @IntegerLimit ([`83b9559`](https://github.com/Nomi-CEu/Nomi-CEu/commit/83b95590cf84fd54aa812830d56a314162399442))
 * Allow Empowered Void Crystal to Take Any Oil Type ([#856](https://github.com/Nomi-CEu/Nomi-CEu/pull/856)) - @IntegerLimit ([`7f22828`](https://github.com/Nomi-CEu/Nomi-CEu/commit/7f22828d8fc58379353faa2f2f937d5e3c33a3a3))
 * Misc JEI Cleanup ([#684](https://github.com/Nomi-CEu/Nomi-CEu/pull/684)) - @IntegerLimit ([`1bf37f6`](https://github.com/Nomi-CEu/Nomi-CEu/commit/1bf37f6fabaccecbd52d209674f0848b1aa14b77))
-* Hide Misc Thermal Expansion Arguments ([#822](https://github.com/Nomi-CEu/Nomi-CEu/pull/822)) - @v3ect0rgames ([`c807632`](https://github.com/Nomi-CEu/Nomi-CEu/commit/c807632707562a095e617f3d11d2759dc7d0ed91))
+* Hide Misc Thermal Expansion Augments ([#822](https://github.com/Nomi-CEu/Nomi-CEu/pull/822)) - @v3ect0rgames ([`c807632`](https://github.com/Nomi-CEu/Nomi-CEu/commit/c807632707562a095e617f3d11d2759dc7d0ed91))
 * Tooltip Fixes and Enhancements ([#798](https://github.com/Nomi-CEu/Nomi-CEu/pull/798)) - @IntegerLimit ([`1026e63`](https://github.com/Nomi-CEu/Nomi-CEu/commit/1026e63281adeb330183067628f070253c84f8ba))
 * Cleanup Thermal and EIO Items in JEI ([#799](https://github.com/Nomi-CEu/Nomi-CEu/pull/799)) - @IntegerLimit ([`5d0ef35`](https://github.com/Nomi-CEu/Nomi-CEu/commit/5d0ef356fa74d5d387a20a94d2d143822ebcd4f4))
 * Add Recycling Recipes for GT Parts and Hatches ([#797](https://github.com/Nomi-CEu/Nomi-CEu/pull/797)) - @v3ect0rgames ([`39b9efa`](https://github.com/Nomi-CEu/Nomi-CEu/commit/39b9efaa30efa4508a5ab0fdb7bbb0ec0f894340))
@@ -378,7 +378,6 @@
 * Fix DML Multiblock Recipes - @IntegerLimit ([`758f7e7`](https://github.com/Nomi-CEu/Nomi-CEu/commit/758f7e704ca8b13031f7ca859e6bc9c0f0a9e786))
 
 ### Normal Mode:
-* Fix Computer Casing Recipe ([#683](https://github.com/Nomi-CEu/Nomi-CEu/pull/683)) - @IntegerLimit ([`aa6531d`](https://github.com/Nomi-CEu/Nomi-CEu/commit/aa6531df75be66486749b71dc4694b42e4db3b5c))
 * Add Distilled Water Variant of Dust -> Clay ([#685](https://github.com/Nomi-CEu/Nomi-CEu/pull/685)) - @IntegerLimit ([`8510201`](https://github.com/Nomi-CEu/Nomi-CEu/commit/8510201077cc879f70e581fdf6216a427d9ba128))
 
 ## General Changes:
