@@ -15,6 +15,8 @@ In: Crafting Table
 
 - 1x ULV Pump
 
+![image](https://github.com/user-attachments/assets/3835f5f2-596f-43ea-8c71-d0f77e0eacc9)
+
 #### Changes:
 - Normal Copper Pipe -> Tiny Bronze Pipe
 
@@ -36,6 +38,8 @@ In: Assembler, 480 EU/t for 25 Seconds
 **Outputs:**
 
 - 1x Industrial Rebreather Kit (IRK)
+
+![image](https://github.com/user-attachments/assets/7d63ad8b-ed8d-4716-b0e8-ca936e4c7efd)
 
 **Notes:**
 
@@ -74,6 +78,8 @@ In: Electric Blast Furnace, 1048 Kelvin, 120 EU/t for 10 Seconds
 - 1x Iridium Group Sludge
 - 1000mb Sulfur Trioxide
 
+![image](https://github.com/user-attachments/assets/3ffa613a-0cf6-449a-bfab-aac04ed1937e)
+
 #### Changes:
 - Potassium Sulfate output reduced: 14 -> 7
 - 1000mb Sulfur Trioxide added to fluid outputs
@@ -101,6 +107,8 @@ In: Advanced (Tier 2/5x5) Extended Crafting Table
 **Outputs:**
 
 - 1x Industrial Rebreather Kit (IRK)
+
+![image](https://github.com/user-attachments/assets/2d2eb9e5-668d-4ef8-8034-b9bb40c2febf)
 
 **Notes:**
 
