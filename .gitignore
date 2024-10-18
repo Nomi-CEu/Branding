@@ -1,0 +1,18 @@
+.cache
+
+*iml
+
+**/.idea/
+**/.idea_modules/
+
+.vscode/
+
+# OS Specific
+
+# Mac
+*.icloud
+*.DS_Store
+
+# Linux
+*~
+
