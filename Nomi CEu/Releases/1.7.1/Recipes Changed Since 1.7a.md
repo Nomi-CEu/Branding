@@ -22,7 +22,7 @@ In: Crafting Table
 
 ## Mormal Mode:
 ### Airtight Seal Recipe:
-#### Mew Recipe:
+#### New Recipe:
 In: Assembler, 480 EU/t for 25 Seconds
 
 **Inputs:**
