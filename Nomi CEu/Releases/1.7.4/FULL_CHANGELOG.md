@@ -1,4 +1,16 @@
-<h1 {{{ CENTER_ALIGN }}}>Release 1.7.4</h1>
+<h1 align="center"><a href="https://github.com/Nomi-CEu/Nomi-CEu/releases/tag/1.7.3"><img src="https://raw.githubusercontent.com/Nomi-CEu/Branding/main/Nomi%20CEu/Releases/1.7.4/1.7.4.png" alt="Release 1.7.4"></a></h1>
+
+<p align="center"><em><b>So many Balancing Improvements, New Features, and of course, Bug Fixes Galore!</em></b></p>
+
+<p align="center"><em>Featuring: Usable Cells, All Fluid Containers in Crafting, Nuclear Balancing (no more Meltdowns!), Tritanium Balancing, and HUGE Solar Performance Improvements!</em></p>
+
+<hr>
+
+## Warning
+
+**Please DO NOT revert any saves that have been loaded in this release to 1.7-beta-5c, 1.6.1b, 1.6.1a, or prior!**
+
+<hr>
 
 # Changes Since 1.7.3
 
