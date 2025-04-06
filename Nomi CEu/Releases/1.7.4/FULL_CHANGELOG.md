@@ -8,8 +8,8 @@
   * Uranium 238 from Renewable Red Granite has been buffed to 1% (+1%)
     * Uranium 233 Fuels are now Passivable, with TBU Breeding!
   * Thermal Centrifuge Times for Prepared Thorium have been reduced by ~14%
-  * ields from Depleted Fuels have been increased by 10%
-* Misc Thermal Expansion Improvements ([#1127](https://github.com/Nomi-CEu/Nomi-CEu/pull/1127)) - @IntegerLimit ([`9474cca`](https://github.com/Nomi-CEu/Nomi-CEu/commit/9474cca4c5015dde085fa2e43950840d6dc4f35a))
+  * Yields from Depleted Fuels have been increased by 10%
+* **Misc Thermal Expansion Improvements** ([#1127](https://github.com/Nomi-CEu/Nomi-CEu/pull/1127)) - @IntegerLimit ([`9474cca`](https://github.com/Nomi-CEu/Nomi-CEu/commit/9474cca4c5015dde085fa2e43950840d6dc4f35a))
   * Streamlines Portable Tank Upgrade Recipes
     * Now takes Upgrade/Conversion Kits instead of Custom Materials
     * Portable Tanks could be Upgraded with Kits as Placed Blocks Previously
@@ -104,7 +104,7 @@
 * Update AE2 to v0.56.6 ([#1242](https://github.com/Nomi-CEu/Nomi-CEu/pull/1242)) - @IntegerLimit ([`a8d9f66`](https://github.com/Nomi-CEu/Nomi-CEu/commit/a8d9f664a287f0d910751c3500ec2784eb47b7d5))
   * Makes items inserted into Interfaces skip the buffer, and go straight to storage
   * Whilst this release had major issues, they have been patched out with Nomi Labs
-* Add Seperate Icons and Titles for Expert Mode ([#1219](https://github.com/Nomi-CEu/Nomi-CEu/pull/1219)) - @IntegerLimit ([`2b864cc`](https://github.com/Nomi-CEu/Nomi-CEu/commit/2b864ccb95d9080120c9f06dcd57b768cfe0ae76))
+* Add Separate Icons and Titles for Expert Mode ([#1219](https://github.com/Nomi-CEu/Nomi-CEu/pull/1219)) - @IntegerLimit ([`2b864cc`](https://github.com/Nomi-CEu/Nomi-CEu/commit/2b864ccb95d9080120c9f06dcd57b768cfe0ae76))
 * Add Maceration Recipe for Black Quartz Ore ([#1243](https://github.com/Nomi-CEu/Nomi-CEu/pull/1243)) - @IntegerLimit ([`946d0cd`](https://github.com/Nomi-CEu/Nomi-CEu/commit/946d0cd4da03204c1df5a2c44c266b5c3027692e))
 * Improves Phantomface GUIs and Phantom Connector Warnings ([#1216](https://github.com/Nomi-CEu/Nomi-CEu/pull/1216)) - @IntegerLimit ([`136d2d0`](https://github.com/Nomi-CEu/Nomi-CEu/commit/136d2d0df247d20b2a0838ea126ce6e8756e64dd))
 * Change Actually Additions' Laser Tool to GT Screwdriver ([#1166](https://github.com/Nomi-CEu/Nomi-CEu/pull/1166)) - @ChromaPIE ([`707c875`](https://github.com/Nomi-CEu/Nomi-CEu/commit/707c87504edcec907251796a26ac4bfb8764c1e9))
@@ -138,7 +138,7 @@
     * Adds Quest for Passive Crafters
     * Adds Quest for Extra Utilities 2 Player Chest
     * Adds Quest for Draconic Evolution's Place in World
-    * Adds Seperate Quest for Distinct Buses
+    * Adds Separate Quest for Distinct Buses
   * **Fixes**
     * Fixes Interdimensional Networking Quest and PMT Quest not ignoring NBT
     * Fixes Nitrogen Quest in LV, when Atmospheric Collector is only available in MV
