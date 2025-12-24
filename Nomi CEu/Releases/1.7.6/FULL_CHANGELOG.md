@@ -2,7 +2,7 @@
 
 <p align="center"><b>🎄 The Christmas Release 🎄</b></p>
 
-<p align="center"><em>Featuring: TOP revamp, and many new QoL features, performance improvements and bug fixes!</em></p>
+<p align="center"><em>Featuring: TOP revamp, and many new QoL features, balancing changes, performance improvements and bug fixes!</em></p>
 
 # Changes Since 1.7.5
 
