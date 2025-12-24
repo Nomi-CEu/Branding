@@ -208,4 +208,4 @@
   * From `Nightly Build (main branch, 1234567)` to `Nightly (11 Dec 2025, main-1234567)`
 * Manifest and Groovy Script Linting ([#1405](https://github.com/Nomi-CEu/Nomi-CEu/pull/1405)) - @IntegerLimit ([`24c85d7`](https://github.com/Nomi-CEu/Nomi-CEu/commit/24c85d7b0a65b17ea1d388454ad2f6d62208871a))
 
-**Full GitHub Log**: [`1.7.5...1.7.6`](https://github.com/Nomi-CEu/Nomi-CEu/compare/1.7.5...1.7.6)
+**Full Git Commit Log**: [`1.7.5...1.7.6`](https://github.com/Nomi-CEu/Nomi-CEu/compare/1.7.5...1.7.6)
