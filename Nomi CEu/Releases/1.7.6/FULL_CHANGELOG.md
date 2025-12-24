@@ -4,6 +4,14 @@
 
 <p align="center"><em>Featuring: TOP revamp, and many new QoL features, balancing changes, performance improvements and bug fixes!</em></p>
 
+<hr>
+
+## Warning
+
+**Please DO NOT revert any saves that have been loaded in this release to 1.7-beta-5c, 1.6.1b, 1.6.1a, or prior!**
+
+<hr>
+
 # Changes Since 1.7.5
 
 ## Breaking Changes:
